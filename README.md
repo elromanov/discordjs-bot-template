@@ -29,6 +29,8 @@ To obtain a guild ID, you'll need to invite your bot to a Discord server. Once t
 
 Finally, to get a bot token, you'll need to navigate back to the "Bot" section of your Discord Developer Portal application and click "Copy" next to the "Token" field. Be sure to keep this token private and secure, as it grants access to your bot user and can be used to perform actions on behalf of your bot in Discord.
 
+> By default `censor` option is set to `true` in `config.json`. If you want to disable it, you will have to change it to `false`. You can change the list of profanities in `profanities.json`.
+
 ## Usage
 
 ### Register slash commands
