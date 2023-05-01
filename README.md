@@ -8,6 +8,10 @@
 
 > This is an opensource discord bot made with discord.js
 
+## Last updated
+
+> 2023-05-01
+
 ## Features
 This bot is an all purpose bot that features
 * fun commands such as `/card`, `/coinflip`, `/deathroll`, `/trivia` ...
