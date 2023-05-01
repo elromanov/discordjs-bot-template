@@ -10,10 +10,12 @@
 
 ## Features
 This bot is an all purpose bot that features
-* fun commands such as `/card`, `/coinflip`, `/deathroll` ...
+* fun commands such as `/card`, `/coinflip`, `/deathroll`, `/trivia` ...
 * utility commands such as `/avatar`, `/invite-link`, `/user-info` ...
 * admin commands such as `/censor`, `/get-channel-id`, `/server-info` & more
 * And last but not least, full music capabilities making it easy to play songs from youtube on your discord server.
+
+> Trivia questions can be found in `trivia.json`. You can add your own questions by following the same format.
 
 ## Install
 
