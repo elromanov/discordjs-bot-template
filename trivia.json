@@ -1,0 +1,99 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "goodAnswer": 0,
+            "answers": [
+                {
+                    "answer": "Paris"
+                },
+                {
+                    "answer": "London"
+                },
+                {
+                    "answer": "New York"
+                },
+                {
+                    "answer": "Berlin"
+                }
+            ],
+            "explanation": "Paris is the capital of France."
+        },
+        {
+            "question": "What is the capital of Germany?",
+            "goodAnswer": 3,
+            "answers": [
+                {
+                    "answer": "Paris"
+                },
+                {
+                    "answer": "London"
+                },
+                {
+                    "answer": "New York"
+                },
+                {
+                    "answer": "Berlin"
+                }
+            ],
+            "explanation": "Berlin is the capital of Germany."
+        },
+        {
+            "question": "In what year did the first world war start?",
+            "goodAnswer": 0,
+            "answers": [
+                {
+                    "answer": "1914"
+                },
+                {
+                    "answer": "1915"
+                },
+                {
+                    "answer": "1916"
+                },
+                {
+                    "answer": "1917"
+                }
+            ],
+            "explanation": "The first world war started in 1914."
+        },
+        {
+            "question": "In what year did the second world war start?",
+            "goodAnswer": 0,
+            "answers": [
+                {
+                    "answer": "1939"
+                },
+                {
+                    "answer": "1940"
+                },
+                {
+                    "answer": "1941"
+                },
+                {
+                    "answer": "1942"
+                }
+            ],
+            "explanation": "The second world war started in 1939."
+        },
+        {
+            "question": "What's the name of the person who invented the telephone?",
+            "goodAnswer": 0,
+            "answers": [
+                {
+                    "answer": "Alexander Graham Bell"
+                },
+                {
+                    "answer": "Thomas Edison"
+                },
+                {
+                    "answer": "Albert Einstein"
+                },
+                {
+                    "answer": "Nikola Tesla"
+                }
+            ],
+            "explanation": "Alexander Graham Bell invented the telephone."
+        }
+    ]
+}
